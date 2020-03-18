@@ -10,7 +10,7 @@
 - CSS
 - Bootstrap
 
-Link ke Figma
-[Figma](https://.com)
+_Link ke Figma_
+[**Profile Website Figma**](https://.com)
 ![Gambar](https://www.pngfind.com/pngs/m/10-109569_shield-logo-png-logo-agent-of-shield-transparent.png)
 ![Gambar](assets/img/avengers.png)
